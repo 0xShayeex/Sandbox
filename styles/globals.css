@@ -264,6 +264,7 @@ border: 3px solid transparent;
   font-size: 50px;
   line-height: 115%;
   vertical-align: middle;
+  color: whitesmoke;
   
 }
 .herotext{
@@ -272,6 +273,7 @@ border: 3px solid transparent;
   max-width: 484px;
   margin-bottom: 14px;
   vertical-align: middle;
+  color:rgb(245, 245, 245);
 }
 .herotextred{
   color: white;
